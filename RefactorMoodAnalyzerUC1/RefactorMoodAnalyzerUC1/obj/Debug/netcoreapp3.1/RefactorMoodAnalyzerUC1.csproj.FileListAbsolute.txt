@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\bin\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.exe
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\bin\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.deps.json
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\bin\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.runtimeconfig.json
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\bin\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\bin\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.dll
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\bin\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.pdb
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.dll
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.pdb
+C:\Users\INDIA\source\repos\RefactorMoodAnalyzerUC1\RefactorMoodAnalyzerUC1\obj\Debug\netcoreapp3.1\RefactorMoodAnalyzerUC1.genruntimeconfig.cache
