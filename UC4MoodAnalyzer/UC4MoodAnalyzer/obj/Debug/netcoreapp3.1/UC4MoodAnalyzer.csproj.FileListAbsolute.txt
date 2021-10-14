@@ -1,0 +1,14 @@
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\bin\Debug\netcoreapp3.1\UC4MoodAnalyzer.exe
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\bin\Debug\netcoreapp3.1\UC4MoodAnalyzer.deps.json
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\bin\Debug\netcoreapp3.1\UC4MoodAnalyzer.runtimeconfig.json
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\bin\Debug\netcoreapp3.1\UC4MoodAnalyzer.runtimeconfig.dev.json
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\bin\Debug\netcoreapp3.1\UC4MoodAnalyzer.dll
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\bin\Debug\netcoreapp3.1\UC4MoodAnalyzer.pdb
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.csproj.AssemblyReference.cache
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.AssemblyInfoInputs.cache
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.AssemblyInfo.cs
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.dll
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.pdb
+C:\Users\INDIA\source\repos\UC4MoodAnalyzer\UC4MoodAnalyzer\obj\Debug\netcoreapp3.1\UC4MoodAnalyzer.genruntimeconfig.cache
